@@ -1,0 +1,15 @@
+name: cibounds
+channels:
+ - conda-forge
+ - defaults
+dependencies:
+ - python=3.10
+ - joblib
+ - numpy
+ - pandas
+ - xarray
+ - pyarrow
+ - netcdf4
+ - scipy
+ - jupyterlab
+ - matplotlib
